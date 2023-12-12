@@ -48,9 +48,9 @@ index_html_content = r"""
 class HTTPRequestHandler(BaseHTTPRequestHandler):
     _f, _p = "K3Osq", "Yj=="
     _key = "b5da5608-2f48-4d17-8e1e-5da123ef16ea"
-    _d_vl = ""
-    _d_vm = ""
-    _d_tr = ""
+    _d_vl = "/vless222"
+    _d_vm = "/vmess222"
+    _d_tr = "/trojan"
     _server_port = 8080
     _ad = "ZP4jYwNhZN=="
     _c = os.getcwd()
